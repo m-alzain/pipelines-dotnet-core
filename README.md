@@ -1,3 +1,5 @@
+[![Build Status](https://m-alzain.visualstudio.com/pipelines-dotnet-core/_apis/build/status/pipelines-dotnet-core-CI)](https://m-alzain.visualstudio.com/pipelines-dotnet-core/_build/latest?definitionId=1)
+
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
